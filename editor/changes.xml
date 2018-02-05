@@ -27,6 +27,9 @@
       <action type="add" dev="sseifert" issue="WCON-48">
         Add new editor widget type "dropdown".
       </action>
+    </release>
+
+    <release version="1.2.12" date="2018-02-05">
       <action type="update" dev="sseifert" issue="WCON-47">
         Include angularjs lib to make editor runnable in AEM 6.4.
       </action>
