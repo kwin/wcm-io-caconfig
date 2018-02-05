@@ -23,7 +23,10 @@
     xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 http://maven.apache.org/plugins/maven-changes-plugin/xsd/changes-1.0.0.xsd">
   <body>
 
-    <release version="1.2.12" date="not released">
+    <release version="1.3.0" date="not released">
+      <action type="add" dev="sseifert" issue="WCON-48">
+        Add new editor widget type "dropdown".
+      </action>
       <action type="update" dev="sseifert" issue="WCON-47">
         Include angularjs lib to make editor runnable in AEM 6.4.
       </action>
